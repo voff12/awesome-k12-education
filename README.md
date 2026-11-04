@@ -15,3 +15,4 @@
   - 我觉得上兵伐谋，作战之前必须要想清楚你的战略是什么，决战于庙堂之下，阿里巴巴最重要的几个决定，当年有几个重要的决定我是到寺庙去开的，在菩萨下面讲打打杀杀，讲赚钱，讲多少利润多庸俗，想想怎么去帮助别人，超度世界，帮助更多人，做事情就会好很多。
   - 人类成功以后往往以为自己都是对的，过去300年西方是知识驱动的，300年以前东方是智慧驱动，何为智慧和知识？什么叫聪明，什么叫智慧？我个人粗浅的理解，聪明是看见别人没看见的东西，智慧是看见当不看见。
   - 我认为做企业有三个关键，大家说情商、智商，我讲成功靠情商，EQ极高的人很容易成功，但是IQ一般不太高，因为聪明的人不太学习，所以IQ是保持不败，EQ是保持成功
+- [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
